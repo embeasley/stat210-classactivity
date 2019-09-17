@@ -1,0 +1,16 @@
+---
+title: "ClassActivitySTAT2109-17"
+author: "Emily Beasley"
+date: "9/17/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+```{r}
+summary(mpg)
+```
+
